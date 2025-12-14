@@ -4,8 +4,8 @@
 
 * Результати виконання завдання *1...N*;
     1. Розробили/Створили 
-    1. Програма вивела значення <img width="766" height="737" alt="image" src="https://github.com/user-attachments/assets/19f3b7f7-801e-4892-aa62-3354d240d350" />
-    1. Отримано наступні результати <img width="661" height="306" alt="image" src="https://github.com/user-attachments/assets/8fda148d-c3be-40c8-8870-43648bbab2dc" />
+    1. Програма вивела значення <img width="766" height="737" alt="image1" src="https://github.com/user-attachments/assets/19f3b7f7-801e-4892-aa62-3354d240d350" />
+    1. Отримано наступні результати <img width="661" height="306" alt="image2" src="https://github.com/user-attachments/assets/8fda148d-c3be-40c8-8870-43648bbab2dc" />
     1. Навчились застосовувати основні конструкції мови Python, виконати всі приклади та з використанням AI створити власні приклади які демонструють особливості кодових конструкцій Pyhton
  
 4)1. Змінні та Типи Даних
